@@ -1,0 +1,6 @@
+doctor_id,first_name,last_name,specialization,hire_date,department,license_number,is_remote,ai_assistant_enabled
+5001,"Dr. Sophia",Zhang,Neuro-Robotics,2022-05-10,Neurology,CA-MD-5001,1,1
+5004,"Dr. Elena",Rodriguez,Telemedicine,2024-02-05,"Internal Medicine",CA-MD-5004,1,1
+5006,"Dr. Olivia",Chen,"VR Therapy",2023-06-18,Psychiatry,CA-MD-5006,1,1
+5009,"Dr. Ethan",Williams,"AI Diagnostics",2024-01-05,Radiology,CA-MD-5009,1,1
+5013,"Dr. Lucas",Garcia,"Quantum Imaging",2024-04-18,Diagnostics,CA-MD-5013,1,1

@@ -1,0 +1,2 @@
+doctor_id,first_name,last_name,specialization,hire_date,department,license_number,is_remote,ai_assistant_enabled
+5003,"Dr. Marcus",Johnson,"AI-Assisted Surgery",2021-11-20,Surgery,CA-MD-5003,0,1

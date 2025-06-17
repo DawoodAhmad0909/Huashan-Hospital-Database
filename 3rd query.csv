@@ -1,0 +1,10 @@
+patient_id,first_name,last_name,date_of_birth,gender,address,blood_type,insurance_provider,registration_date,biometric_id
+1001,Olivia,Chen,1995-08-12,Female,"123 Tech Park Ave, Silicon Valley",A+,"MediCare Plus",2025-01-15,BIO1001
+1008,Lucas,Wilson,1972-04-08,Male,"753 AI Boulevard, Chicago",A+,"SeniorCare Plus",2025-02-05,BIO1008
+1011,Charlotte,Garcia,1979-06-24,Female,"426 Cloud Street, Phoenix",A+,"MediCare Plus",2025-02-15,BIO1011
+1018,Grayson,King,1987-11-22,Male,"963 Nano Avenue, Detroit",A+,FutureWell,2025-03-05,BIO1018
+1022,Mason,Adams,1981-10-26,Male,"852 Robot Street, Pittsburgh",A+,"Wellness Future",2025-03-18,BIO1022
+1002,Ethan,Robinson,1988-03-25,Male,"456 Quantum Lane, Austin",O+,"HealthGuard 2025",2025-01-18,BIO1002
+1009,Mia,Brown,1998-01-30,Female,"357 Metaverse Lane, Atlanta",O+,"HealthGuard 2025",2025-02-08,BIO1009
+1017,Abigail,Allen,1996-03-17,Female,"852 Quantum Street, Orlando",O+,"HealthGuard 2025",2025-03-02,BIO1017
+1025,Victoria,Carter,1989-09-11,Female,"741 IoT Lane, Indianapolis",O+,"HealthGuard 2025",2025-03-25,BIO1025

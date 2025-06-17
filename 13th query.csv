@@ -1,0 +1,3 @@
+doctor_id,first_name,last_name,specialization,hire_date,department,license_number,is_remote,ai_assistant_enabled,Total_Time
+5005,"Dr. David",Kim,Nanomedicine,2020-08-12,Oncology,CA-MD-5005,0,1,4
+5007,"Dr. James",Wilson,"Bionic Implants",2019-04-22,Orthopedics,CA-MD-5007,0,1,5

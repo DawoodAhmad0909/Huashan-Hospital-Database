@@ -1,0 +1,9 @@
+doctor_id,first_name,last_name,specialization,hire_date,department,license_number,is_remote,ai_assistant_enabled
+5001,"Dr. Sophia",Zhang,Neuro-Robotics,2022-05-10,Neurology,CA-MD-5001,1,1
+5003,"Dr. Marcus",Johnson,"AI-Assisted Surgery",2021-11-20,Surgery,CA-MD-5003,0,1
+5005,"Dr. David",Kim,Nanomedicine,2020-08-12,Oncology,CA-MD-5005,0,1
+5007,"Dr. James",Wilson,"Bionic Implants",2019-04-22,Orthopedics,CA-MD-5007,0,1
+5008,"Dr. Priya",Natarajan,"Precision Medicine",2022-09-30,Cardiology,CA-MD-5008,0,1
+5010,"Dr. Aisha",Khan,Cryonics,2021-07-15,"Emergency Medicine",CA-MD-5010,0,1
+5012,"Dr. Isabella",Brown,"Neural Interfaces",2022-10-25,Neurosurgery,CA-MD-5012,0,1
+5014,"Dr. Mia",Johnson,"Exoskeleton Rehab",2021-12-05,"Physical Therapy",CA-MD-5014,0,1

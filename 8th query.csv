@@ -1,0 +1,10 @@
+patient_id,first_name,last_name,date_of_birth,gender,address,blood_type,insurance_provider,registration_date,biometric_id
+1001,Olivia,Chen,1995-08-12,Female,"123 Tech Park Ave, Silicon Valley",A+,"MediCare Plus",2025-01-15,BIO1001
+1004,Liam,Nguyen,2005-05-18,Male,"321 GenZ Blvd, Seattle",AB+,"YouthCare 2025",2025-01-22,BIO1004
+1008,Lucas,Wilson,1972-04-08,Male,"753 AI Boulevard, Chicago",A+,"SeniorCare Plus",2025-02-05,BIO1008
+1011,Charlotte,Garcia,1979-06-24,Female,"426 Cloud Street, Phoenix",A+,"MediCare Plus",2025-02-15,BIO1011
+1012,Aiden,Rodriguez,2003-02-11,Male,"963 Drone Avenue, Houston",B+,"YouthCare 2025",2025-02-18,BIO1012
+1015,Harper,Hall,1974-05-15,Female,"369 Smart City, San Francisco",AB+,"SeniorCare Plus",2025-02-25,BIO1015
+1019,Emily,Wright,1971-07-04,Female,"159 VR Road, Minneapolis",B+,"MediCare Plus",2025-03-08,BIO1019
+1021,Elizabeth,Green,2002-01-13,Female,"357 Metaverse Blvd, Tampa",O-,"YouthCare 2025",2025-03-15,BIO1021
+1024,Logan,Baker,1975-02-19,Male,"963 Drone Road, Kansas City",AB+,"SeniorCare Plus",2025-03-22,BIO1024

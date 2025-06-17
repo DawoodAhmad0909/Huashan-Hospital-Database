@@ -1,4 +1,4 @@
-Month_number,Total_Patients
-1,6
-2,10
-3,9
+Month_number,Month_name,Total_Patients
+1,January,6
+2,February,10
+3,March,9

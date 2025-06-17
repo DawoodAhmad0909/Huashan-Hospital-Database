@@ -4,13 +4,11 @@
 This SQL script sets up and populates a hospital database named HHS_db. It defines two core tables—Patients and Doctors—each capturing essential attributes such as personal details, medical information, and organizational data. Once populated with sample data, the script performs a series of analytical queries aimed at retrieving insights about patient demographics, doctor specializations, registration trends, and more.
 
 ## Objectives
-The primary objective of this code is to:
 #### Design a structured healthcare database using MySQL with normalized tables for patients and doctors.
 #### Insert realistic and diverse sample records to simulate a functioning hospital environment.
-#### Run analytical queries to:
-#####Identify patient trends (e.g., age, blood type, gender, insurance usage).
-##### Analyze doctor data (e.g., specializations, employment trends, remote work status).
-##### Support decision-making through data such as average patient age, monthly registrations, and most common blood types.
+#### Identify patient trends (e.g., age, blood type, gender, insurance usage).
+#### Analyze doctor data (e.g., specializations, employment trends, remote work status).
+#### Support decision-making through data such as average patient age, monthly registrations, and most common blood types.
 ## Creating Database
 ```sql
 CREATE DATABASE HHS_db;

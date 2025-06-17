@@ -1,7 +1,16 @@
 # Huashan-Hospital-Database
 ## Overview
 #### Database:HHS_db
+This SQL script sets up and populates a hospital database named HHS_db. It defines two core tables—Patients and Doctors—each capturing essential attributes such as personal details, medical information, and organizational data. Once populated with sample data, the script performs a series of analytical queries aimed at retrieving insights about patient demographics, doctor specializations, registration trends, and more.
+
 ## Objectives
+The primary objective of this code is to:
+#### Design a structured healthcare database using MySQL with normalized tables for patients and doctors.
+#### Insert realistic and diverse sample records to simulate a functioning hospital environment.
+#### Run analytical queries to:
+#####Identify patient trends (e.g., age, blood type, gender, insurance usage).
+##### Analyze doctor data (e.g., specializations, employment trends, remote work status).
+##### Support decision-making through data such as average patient age, monthly registrations, and most common blood types.
 ## Creating Database
 ```sql
 CREATE DATABASE HHS_db;
@@ -133,3 +142,6 @@ WHERE registration_date > '2024-12-31'
 GROUP BY Month_number,Month_name
 ORDER BY Month_number;
 ```
+## Conclusion
+This SQL script successfully demonstrates the creation and basic use of a healthcare information system database. It effectively captures and queries data relevant to hospital operations, allowing for meaningful insights into both patient care and doctor workforce. The logical queries provide answers to real-world operational questions, such as identifying high-demand blood types, tracking registration trends, and understanding workforce distribution—laying the groundwork for more advanced analytics and reporting in a hospital environment.
+

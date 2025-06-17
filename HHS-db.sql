@@ -112,7 +112,6 @@ AND is_remote=FALSE;
 SELECT COUNT(*) AS Total_Patients, blood_type FROM Patients
 WHERE 
 	blood_type='Unknown'
-OR blood_type IS NULL
 GROUP BY blood_type;
 
 SELECT blood_type,COUNT(*) AS Total_Patients FROM Patients
